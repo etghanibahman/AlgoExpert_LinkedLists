@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{695BA76A-F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{BA0E493C-5DF8-4670-8B44-14245CD1C43E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListConstruction", "LinkedListConstruction\LinkedListConstruction.csproj", "{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListConstruction", "LinkedListConstruction\LinkedListConstruction.csproj", "{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveKthNodeFromEnd", "RemoveKthNodeFromEnd\RemoveKthNodeFromEnd.csproj", "{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{04130188-611C-495F-96DE-18795FB322ED} = {695BA76A-FDBD-48BE-9280-B44CAD0F51B6}
 		{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0} = {BA0E493C-5DF8-4670-8B44-14245CD1C43E}
+		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817} = {BA0E493C-5DF8-4670-8B44-14245CD1C43E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55D63051-9242-48BA-B9ED-7B8CC7EF2AD3}
