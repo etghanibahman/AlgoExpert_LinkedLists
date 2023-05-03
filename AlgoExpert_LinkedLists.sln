@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListConstruction", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveKthNodeFromEnd", "RemoveKthNodeFromEnd\RemoveKthNodeFromEnd.csproj", "{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleNode", "MiddleNode\MiddleNode.csproj", "{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleNode", "MiddleNode\MiddleNode.csproj", "{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfLinkedLists", "SumOfLinkedLists\SumOfLinkedLists.csproj", "{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{40ACCCF4-06AC-4297-8C8B-9B27C82B9BE0} = {BA0E493C-5DF8-4670-8B44-14245CD1C43E}
 		{0895D7D4-D9C1-4BB1-9E7E-4AEFD3B5D817} = {BA0E493C-5DF8-4670-8B44-14245CD1C43E}
 		{6129D2CE-2E88-4AAC-834F-122CF7C3BB5A} = {695BA76A-FDBD-48BE-9280-B44CAD0F51B6}
+		{0C7D7E91-DF4F-49E6-9D89-7F3996A06EFF} = {BA0E493C-5DF8-4670-8B44-14245CD1C43E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55D63051-9242-48BA-B9ED-7B8CC7EF2AD3}
